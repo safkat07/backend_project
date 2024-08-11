@@ -9,4 +9,4 @@ const asyncHandler = (fn) => async (req, res, next) => {
     }
 }
 
-import { asyncHandler }
+export { asyncHandler }
